@@ -1,0 +1,285 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "L1",
+					"strict" : false
+				},
+				{
+					"name" : "L2",
+					"strict" : false
+				},
+				{
+					"name" : "L3",
+					"strict" : false
+				},
+				{
+					"name" : "L4",
+					"strict" : false
+				},
+				{
+					"name" : "RNG[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RNG[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Temp[31]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SCORE2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LUZ2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BT1",
+					"strict" : false
+				},
+				{
+					"name" : "BT2",
+					"strict" : false
+				},
+				{
+					"name" : "BT3",
+					"strict" : false
+				},
+				{
+					"name" : "BT4",
+					"strict" : false
+				},
+				{
+					"name" : "Clk",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

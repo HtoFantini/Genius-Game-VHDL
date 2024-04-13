@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri Jul 14 16:43:08 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : Genius
+Top-level Entity Name : Genius
+Family : MAX 10
+Total logic elements : 2,625
+    Total combinational functions : 2,583
+    Dedicated logic registers : 230
+Total registers : 230
+Total pins : 72
+Total virtual pins : 0
+Total memory bits : 256
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
